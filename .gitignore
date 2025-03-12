@@ -1,0 +1,18 @@
+# Node.js-Abhängigkeiten
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Umgebungsvariablen (geheime Keys)
+.env
+
+# Build-Ordner (bei Frontend mit Vite)
+dist/
+
+# Editor-spezifische Dateien
+.vscode/
+.DS_Store
+
+# Docker & Logs
+docker-compose.override.yml
+*.log
